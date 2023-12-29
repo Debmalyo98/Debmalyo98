@@ -13,7 +13,7 @@
 📫 How to reach me
   <l></l>
 EMAIL - debmalyomondal42@gmail.com
-LINKDIN: https://www.linkedin.com/in/debmalyo-mondal-8122ab248/
+LINKEDIN: https://www.linkedin.com/in/debmalyo-mondal-8122ab248/
 
 <!---
 Debmalyo98/Debmalyo98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
